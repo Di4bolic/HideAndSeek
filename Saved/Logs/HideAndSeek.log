@@ -931,3 +931,6 @@ Make sure 'FirstPersonCharacter_C' has been compiled for  Want to Interact
 [2023.03.13-13.06.59:088][465]LogFileHelpers: Loading map 'Level_001' took 0.432
 [2023.03.13-13.07.13:727][  9]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
 [2023.03.13-13.07.14:274][ 10]LogSlate: Took 0.010081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.13-13.13.31:431][569]LogSavePackage: Moving '../../../../../zNathan/Unreal/LAST_GOOD_HIDEANDSEEK/Saved/FirstPersonCharacter68C9579F455C55954364AFA2E70BB7BA.tmp' to '../../../../../zNathan/Unreal/LAST_GOOD_HIDEANDSEEK/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.03.13-13.13.31:458][569]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.03.13-13.13.31:459][569]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
