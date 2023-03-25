@@ -1350,3 +1350,702 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.25-17.00.20:097][404]LogSavePackage: Moving 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/LevelJulienED848B5641C669BC79C711A1161F43DE.tmp' to 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Content/Levels/LevelJulien.umap'
 [2023.03.25-17.00.20:141][404]AssetCheck: New page: Asset Save: LevelJulien
 [2023.03.25-17.00.20:142][404]LogContentValidation: Display: Validating World /Game/Levels/LevelJulien.LevelJulien
+[2023.03.25-17.01.11:409][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_27)
+[2023.03.25-17.01.21:703][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_38)
+[2023.03.25-17.01.33:968][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_39)
+[2023.03.25-17.04.35:657][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_45)
+[2023.03.25-17.04.38:394][369]Cmd: DELETE
+[2023.03.25-17.04.38:394][369]Cmd: ACTOR DELETE
+[2023.03.25-17.04.38:396][369]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.25-17.04.38:399][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.03.25-17.04.38:401][369]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2023.03.25-17.04.39:106][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_44)
+[2023.03.25-17.05.19:623][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_42)
+[2023.03.25-17.05.35:639][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_45)
+[2023.03.25-17.06.19:772][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_40)
+[2023.03.25-17.06.20:727][504]Cmd: DELETE
+[2023.03.25-17.06.20:727][504]Cmd: ACTOR DELETE
+[2023.03.25-17.06.20:728][504]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.25-17.06.20:732][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.03.25-17.06.20:733][504]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2023.03.25-17.06.23:596][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_39)
+[2023.03.25-17.06.24:130][909]Cmd: DELETE
+[2023.03.25-17.06.24:130][909]Cmd: ACTOR DELETE
+[2023.03.25-17.06.24:131][909]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.25-17.06.24:134][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.03.25-17.06.24:135][909]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2023.03.25-17.06.26:001][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_29)
+[2023.03.25-17.07.01:948][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_15)
+[2023.03.25-17.07.07:816][938]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.07.07:821][938]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.07.08:308][938]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.07.08:312][938]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.07.30:557][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_16)
+[2023.03.25-17.07.31:943][737]Cmd: TRANSACTION UNDO
+[2023.03.25-17.07.31:943][737]LogEditorTransaction: Undo Move Actors
+[2023.03.25-17.08.10:418][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_46)
+[2023.03.25-17.08.48:153][776]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (GameDesignModuleWallF__1_37)
+[2023.03.25-17.08.48:932][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_37)
+[2023.03.25-17.08.53:692][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_48)
+[2023.03.25-17.10.06:359][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_26)
+[2023.03.25-17.10.08:444][156]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.10.08:449][156]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.10.22:307][675]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.10.22:311][675]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.10.39:569][550]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.10.39:576][550]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.10.59:979][831]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.10.59:985][831]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.11.12:803][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_50)
+[2023.03.25-17.12.19:061][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_49)
+[2023.03.25-17.13.14:741][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_39)
+[2023.03.25-17.13.23:631][776]LogEditorViewport: Clicking Background
+[2023.03.25-17.13.25:224][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_40)
+[2023.03.25-17.13.29:622][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_40)
+[2023.03.25-17.13.30:861][640]LogEditorViewport: Clicking Background
+[2023.03.25-17.13.32:806][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_40)
+[2023.03.25-17.14.42:217][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_41)
+[2023.03.25-17.15.19:853][440]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.15.19:859][440]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.16.09:650][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_14)
+[2023.03.25-17.16.13:928][706]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.16.13:934][706]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.16.14:505][706]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.16.14:509][706]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.16.29:503][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelJulien" FILE="H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Content/Levels/LevelJulien.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.25-17.16.29:506][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.25-17.16.29:531][482]LogSavePackage: Moving 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/LevelJulien0EF4A12B479DD97A0441DB921A3D1E5A.tmp' to 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Content/Levels/LevelJulien.umap'
+[2023.03.25-17.16.29:644][482]AssetCheck: New page: Asset Save: LevelJulien
+[2023.03.25-17.16.29:644][482]LogContentValidation: Display: Validating World /Game/Levels/LevelJulien.LevelJulien
+[2023.03.25-17.20.03:763][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_29)
+[2023.03.25-17.20.08:942][483]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.20.08:949][483]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.20.09:218][483]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.20.09:222][483]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.20.09:687][483]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.20.09:692][483]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.20.10:088][483]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.20.10:092][483]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.20.22:452][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_37)
+[2023.03.25-17.20.26:546][285]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.20.26:551][285]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.20.35:916][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_36)
+[2023.03.25-17.20.37:682][471]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.20.37:687][471]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.20.49:315][847]LogEditorViewport: Clicking Background
+[2023.03.25-17.21.01:739][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_40)
+[2023.03.25-17.21.15:450][823]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.21.15:453][823]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.21.16:830][823]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.21.16:836][823]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.21.17:254][823]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.21.17:261][823]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.21.17:635][823]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.21.17:640][823]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.21.18:052][823]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.21.18:058][823]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.21.18:469][823]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.21.18:474][823]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.21.32:806][487]Cmd: TRANSACTION UNDO
+[2023.03.25-17.21.32:806][487]LogEditorTransaction: Undo Move Actors
+[2023.03.25-17.21.34:986][552]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.21.34:991][552]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.21.35:983][552]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.21.35:987][552]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.21.36:421][552]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.21.36:424][552]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.21.36:788][552]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.21.36:793][552]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.21.37:151][552]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.21.37:156][552]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.21.37:536][552]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.21.37:540][552]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.21.59:774][ 63]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.21.59:779][ 63]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.22.00:544][ 63]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.22.00:550][ 63]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.22.00:903][ 63]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.22.00:907][ 63]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.22.01:252][ 63]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.22.01:257][ 63]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.22.01:622][ 63]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.22.01:628][ 63]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.22.02:125][ 63]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.22.02:131][ 63]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.22.47:041][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_53)
+[2023.03.25-17.22.52:537][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_59)
+[2023.03.25-17.22.56:710][360]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.22.56:718][360]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.22.58:145][360]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.22.58:150][360]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.22.58:471][360]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.22.58:477][360]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.22.58:768][360]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.22.58:773][360]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.22.59:206][360]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.22.59:212][360]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.23.00:233][360]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.23.00:238][360]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.23.15:571][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_59)
+[2023.03.25-17.23.18:479][469]Cmd: TRANSACTION UNDO
+[2023.03.25-17.23.18:480][469]LogEditorTransaction: Undo Move Actors
+[2023.03.25-17.23.20:382][523]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.23.20:388][523]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.23.35:734][306]Cmd: TRANSACTION UNDO
+[2023.03.25-17.23.35:734][306]LogEditorTransaction: Undo Rotate Actors
+[2023.03.25-17.24.37:842][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_40)
+[2023.03.25-17.24.51:480][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_60)
+[2023.03.25-17.24.51:744][435]Cmd: TRANSACTION UNDO
+[2023.03.25-17.24.51:744][435]LogEditorTransaction: Undo Clicking on Actors
+[2023.03.25-17.24.52:084][444]Cmd: TRANSACTION UNDO
+[2023.03.25-17.24.52:084][444]LogEditorTransaction: Undo Set Scale
+[2023.03.25-17.25.21:753][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_60)
+[2023.03.25-17.26.09:620][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_40)
+[2023.03.25-17.26.11:876][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_60)
+[2023.03.25-17.26.14:231][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_40)
+[2023.03.25-17.26.16:224][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_60)
+[2023.03.25-17.26.42:455][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_59)
+[2023.03.25-17.26.44:406][581]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.26.44:412][581]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.27.12:004][696]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.27.12:009][696]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.27.36:410][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_40)
+[2023.03.25-17.27.45:483][646]Cmd: TRANSACTION UNDO
+[2023.03.25-17.27.45:483][646]LogEditorTransaction: Undo Rotate Actors
+[2023.03.25-17.27.49:150][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_63)
+[2023.03.25-17.28.18:635][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_62)
+[2023.03.25-17.28.31:232][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_60)
+[2023.03.25-17.28.33:580][680]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.28.33:586][680]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.29.13:901][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_63)
+[2023.03.25-17.29.14:716][520]Cmd: DELETE
+[2023.03.25-17.29.14:716][520]Cmd: ACTOR DELETE
+[2023.03.25-17.29.14:718][520]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.25-17.29.14:722][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.25-17.29.14:723][520]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2023.03.25-17.29.16:901][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_60)
+[2023.03.25-17.29.22:059][209]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.29.22:064][209]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.29.22:555][209]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.29.22:560][209]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.29.28:440][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_63)
+[2023.03.25-17.29.45:158][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_41)
+[2023.03.25-17.29.48:207][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_63)
+[2023.03.25-17.29.54:469][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_65)
+[2023.03.25-17.29.59:165][494]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (GameDesignModuleFloor__1_65)
+[2023.03.25-17.30.00:017][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_65)
+[2023.03.25-17.30.10:620][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_40)
+[2023.03.25-17.30.32:682][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_47)
+[2023.03.25-17.30.35:977][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_67)
+[2023.03.25-17.31.36:649][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_60)
+[2023.03.25-17.31.37:266][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_69)
+[2023.03.25-17.32.17:086][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_67)
+[2023.03.25-17.33.25:012][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.25-17.33.25:014][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelJulien" FILE="H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/Autosaves/Game/Levels/LevelJulien_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.03.25-17.33.25:042][368]LogSavePackage: Moving 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/LevelJulien_Auto4CECE421A45FBAF8A42E94092161CAA80.tmp' to 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/Autosaves/Game/Levels/LevelJulien_Auto4.umap'
+[2023.03.25-17.33.25:430][368]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.422
+[2023.03.25-17.33.25:430][368]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.422
+[2023.03.25-17.33.48:190][940]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (GameDesignModuleWallF__1_68)
+[2023.03.25-17.33.51:014][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_68)
+[2023.03.25-17.33.52:044][397]Cmd: DELETE
+[2023.03.25-17.33.52:045][397]Cmd: ACTOR DELETE
+[2023.03.25-17.33.52:046][397]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.25-17.33.52:049][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.03.25-17.33.52:050][397]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2023.03.25-17.33.55:016][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_67)
+[2023.03.25-17.33.57:965][ 94]Cmd: TRANSACTION UNDO
+[2023.03.25-17.33.57:965][ 94]LogEditorTransaction: Undo Move Actors
+[2023.03.25-17.34.00:406][340]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_59)
+[2023.03.25-17.34.04:411][805]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (GameDesignModuleFloor__1_53)
+[2023.03.25-17.34.05:236][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_53)
+[2023.03.25-17.34.08:609][148]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.34.08:613][148]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.34.09:739][148]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-17.34.09:745][148]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-17.34.22:154][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_67)
+[2023.03.25-17.35.05:651][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_68)
+[2023.03.25-17.43.25:735][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.03.25-17.43.25:736][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelJulien" FILE="H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/Autosaves/Game/Levels/LevelJulien_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.03.25-17.43.25:765][728]LogSavePackage: Moving 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/LevelJulien_Auto5EF5C63E74D5E1EC3B4806E85B681559D.tmp' to 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/Autosaves/Game/Levels/LevelJulien_Auto5.umap'
+[2023.03.25-17.43.26:121][728]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.391
+[2023.03.25-17.43.26:121][728]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.391
+[2023.03.25-18.06.23:255][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_67)
+[2023.03.25-18.06.25:442][544]Cmd: TRANSACTION UNDO
+[2023.03.25-18.06.25:442][544]LogEditorTransaction: Undo Move Actors
+[2023.03.25-18.06.27:393][606]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.06.27:398][606]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.06.38:444][780]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.06.38:451][780]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.06.39:483][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_69)
+[2023.03.25-18.06.39:539][908]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.03.25-18.06.50:696][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_75)
+[2023.03.25-18.07.47:212][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_78)
+[2023.03.25-18.07.51:812][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_69)
+[2023.03.25-18.08.00:590][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_77)
+[2023.03.25-18.08.01:456][512]Cmd: DELETE
+[2023.03.25-18.08.01:456][512]Cmd: ACTOR DELETE
+[2023.03.25-18.08.01:458][512]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.25-18.08.01:462][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.03.25-18.08.01:463][512]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2023.03.25-18.08.06:518][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_79)
+[2023.03.25-18.08.34:044][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_69)
+[2023.03.25-18.08.38:466][767]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.08.38:472][767]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.08.43:355][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_69)
+[2023.03.25-18.08.43:738][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_80)
+[2023.03.25-18.08.44:707][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_70)
+[2023.03.25-18.08.46:086][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_69)
+[2023.03.25-18.09.02:356][469]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.09.02:362][469]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.09.03:810][469]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.09.03:815][469]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.09.14:118][538]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.09.14:126][538]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.09.15:148][538]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.09.15:155][538]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.09.25:940][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_80)
+[2023.03.25-18.10.09:446][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_86)
+[2023.03.25-18.10.13:269][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_84)
+[2023.03.25-18.10.18:550][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_85)
+[2023.03.25-18.10.30:098][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_85)
+[2023.03.25-18.10.32:756][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_85)
+[2023.03.25-18.10.37:271][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_80)
+[2023.03.25-18.10.39:576][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_81)
+[2023.03.25-18.10.44:241][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_83)
+[2023.03.25-18.11.00:746][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_86)
+[2023.03.25-18.11.09:278][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_74)
+[2023.03.25-18.11.14:827][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_88)
+[2023.03.25-18.11.31:391][782]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (GameDesignModuleWallF__1_89)
+[2023.03.25-18.11.56:285][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.25-18.11.56:286][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelJulien" FILE="H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/Autosaves/Game/Levels/LevelJulien_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.03.25-18.11.56:574][934]LogSavePackage: Moving 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/LevelJulien_Auto6341E1BC7496D9D5D1EE8FB9664DBD60C.tmp' to 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/Autosaves/Game/Levels/LevelJulien_Auto6.umap'
+[2023.03.25-18.11.56:679][934]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.399
+[2023.03.25-18.11.56:679][934]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.399
+[2023.03.25-18.12.39:263][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_73)
+[2023.03.25-18.12.41:714][911]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.12.41:719][911]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.12.42:126][911]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.12.42:131][911]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.12.54:262][241]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.12.54:267][241]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.12.54:574][241]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.12.54:581][241]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.12.54:889][241]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.12.54:895][241]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.12.55:262][241]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.12.55:268][241]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.13.05:065][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_89)
+[2023.03.25-18.13.46:563][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_94)
+[2023.03.25-18.13.46:944][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_95)
+[2023.03.25-18.14.13:875][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_91)
+[2023.03.25-18.14.14:506][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_92)
+[2023.03.25-18.14.22:836][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_95)
+[2023.03.25-18.15.05:913][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_95)
+[2023.03.25-18.15.23:229][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_96)
+[2023.03.25-18.15.36:129][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_92)
+[2023.03.25-18.15.47:320][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_97)
+[2023.03.25-18.15.56:113][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_80)
+[2023.03.25-18.15.58:058][350]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.15.58:063][350]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.21.09:939][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_97)
+[2023.03.25-18.21.37:349][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_97)
+[2023.03.25-18.21.38:385][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_81)
+[2023.03.25-18.21.46:729][  6]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.21.46:735][  6]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.21.57:195][101]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.21.57:202][101]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.22.17:612][412]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.22.17:618][412]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.22.18:847][412]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.22.18:854][412]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.22.30:290][610]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.22.30:294][610]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.22.30:706][610]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.22.30:710][610]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.22.31:086][610]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.22.31:092][610]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.22.31:473][610]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.22.31:479][610]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.23.02:216][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_88)
+[2023.03.25-18.23.06:004][547]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.23.06:009][547]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.23.06:423][547]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.23.06:428][547]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.23.06:793][547]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.23.06:798][547]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.23.07:187][547]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.23.07:192][547]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.23.07:519][547]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.23.07:526][547]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.23.07:820][547]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.23.07:826][547]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.23.44:953][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_94)
+[2023.03.25-18.23.53:930][916]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.23.53:937][916]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.24.09:066][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_87)
+[2023.03.25-18.24.09:676][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_96)
+[2023.03.25-18.24.13:870][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_87)
+[2023.03.25-18.24.15:756][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_96)
+[2023.03.25-18.24.20:179][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_87)
+[2023.03.25-18.24.44:987][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.03.25-18.24.44:989][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelJulien" FILE="H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/Autosaves/Game/Levels/LevelJulien_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.03.25-18.24.45:025][936]LogSavePackage: Moving 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/LevelJulien_Auto7D0622C7C48128EBA973EC4B2D7BE640E.tmp' to 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/Autosaves/Game/Levels/LevelJulien_Auto7.umap'
+[2023.03.25-18.24.45:385][936]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.401
+[2023.03.25-18.24.45:385][936]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.401
+[2023.03.25-18.25.54:283][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_96)
+[2023.03.25-18.26.23:086][473]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.26.23:093][473]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.26.23:576][473]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.26.23:582][473]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.26.24:003][473]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.26.24:008][473]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.26.24:406][473]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.26.24:410][473]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.26.24:769][473]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.26.24:776][473]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.26.25:103][473]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.26.25:110][473]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.26.25:516][473]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.26.25:521][473]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.26.25:820][473]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.26.25:825][473]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.26.26:135][473]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.26.26:140][473]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.27.22:903][999]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.27.22:909][999]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.27.23:323][999]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.27.23:329][999]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.27.23:703][999]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.27.23:707][999]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.27.24:087][999]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.27.24:093][999]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.27.24:386][999]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.27.24:391][999]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.27.24:721][999]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.27.24:726][999]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.27.25:069][999]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.27.25:074][999]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.27.25:374][999]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.27.25:379][999]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.27.25:891][999]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.27.25:896][999]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.27.26:303][999]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.27.26:311][999]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.27.26:675][999]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.27.26:681][999]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.27.27:140][999]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.27.27:145][999]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.27.27:591][999]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.27.27:598][999]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.27.28:213][999]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.27.28:220][999]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.27.28:776][999]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.27.28:781][999]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.27.29:344][999]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.27.29:349][999]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.27.30:341][999]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.27.30:346][999]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.27.30:787][999]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.27.30:794][999]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.28.45:339][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_117)
+[2023.03.25-18.31.46:950][331]Cmd: TRANSACTION UNDO
+[2023.03.25-18.31.46:950][331]LogEditorTransaction: Undo Edit X
+[2023.03.25-18.31.56:378][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_159)
+[2023.03.25-18.33.41:831][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_98)
+[2023.03.25-18.34.20:539][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_99)
+[2023.03.25-18.34.37:190][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_99)
+[2023.03.25-18.35.07:881][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_96)
+[2023.03.25-18.35.09:295][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_99)
+[2023.03.25-18.35.56:246][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_113)
+[2023.03.25-18.38.13:318][813]LogEditorViewport: Clicking Background
+[2023.03.25-18.38.14:216][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_124)
+[2023.03.25-18.39.54:828][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.03.25-18.39.54:829][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/Autosaves/Game/Levels/MainLevel_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.03.25-18.39.54:883][880]LogSavePackage: Moving 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/MainLevel_Auto810CBBE90491FD0E78C9206B4040FD81E.tmp' to 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/Autosaves/Game/Levels/MainLevel_Auto8.umap'
+[2023.03.25-18.39.55:210][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelJulien" FILE="H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/Autosaves/Game/Levels/LevelJulien_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.03.25-18.39.55:263][880]LogSavePackage: Moving 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/LevelJulien_Auto80B1C890A479F963DCBF698B25FAA49ED.tmp' to 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/Autosaves/Game/Levels/LevelJulien_Auto8.umap'
+[2023.03.25-18.39.55:326][880]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.503
+[2023.03.25-18.39.55:326][880]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.503
+[2023.03.25-18.40.49:755][115]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_142)
+[2023.03.25-18.41.05:485][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_99)
+[2023.03.25-18.41.47:108][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_154)
+[2023.03.25-18.42.05:551][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_154)
+[2023.03.25-18.42.30:667][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_114)
+[2023.03.25-18.43.13:915][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_155)
+[2023.03.25-18.43.16:080][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_117)
+[2023.03.25-18.43.16:750][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_116)
+[2023.03.25-18.44.08:567][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_84)
+[2023.03.25-18.44.13:508][763]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.44.13:514][763]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.44.13:970][763]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.44.13:975][763]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.44.14:415][763]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.44.14:423][763]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.44.14:885][763]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.44.14:890][763]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.44.15:354][763]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.44.15:360][763]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.44.15:772][763]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.44.15:777][763]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.44.16:392][763]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.44.16:397][763]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.44.17:004][763]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.44.17:010][763]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.45.22:793][592]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.45.22:800][592]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.45.23:167][592]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.45.23:173][592]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.45.23:517][592]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.45.23:522][592]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.45.23:884][592]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.45.23:888][592]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.45.24:183][592]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.45.24:190][592]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.45.24:466][592]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.45.24:471][592]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.45.24:937][592]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.45.24:942][592]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.45.25:334][592]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.45.25:339][592]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.45.25:773][592]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.45.25:780][592]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.45.26:303][592]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.45.26:309][592]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.45.46:811][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_186)
+[2023.03.25-18.45.51:240][343]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.45.51:248][343]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.45.51:769][343]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.45.51:775][343]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.45.52:250][343]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.45.52:254][343]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.45.52:728][343]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.45.52:733][343]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.45.53:301][343]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.45.53:306][343]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.45.54:172][343]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.45.54:176][343]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.46.30:588][577]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.46.30:596][577]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.46.30:948][577]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.46.30:953][577]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.46.31:286][577]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.46.31:292][577]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.46.31:616][577]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.46.31:623][577]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.46.31:986][577]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.46.31:991][577]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.46.32:316][577]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.46.32:321][577]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.46.32:636][577]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.46.32:641][577]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.46.32:900][577]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.46.32:905][577]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.46.33:752][577]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.46.33:758][577]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.46.34:341][577]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.46.34:347][577]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.46.34:887][577]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.46.34:893][577]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.46.35:440][577]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.46.35:446][577]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.47.07:546][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_204)
+[2023.03.25-18.47.13:703][659]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.47.13:708][659]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.47.14:100][659]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.47.14:105][659]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.47.14:451][659]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.47.14:455][659]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.47.14:801][659]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.47.14:803][659]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.47.15:083][659]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.47.15:087][659]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.47.15:369][659]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-18.47.15:374][659]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-18.47.29:049][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelJulien" FILE="H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Content/Levels/LevelJulien.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.25-18.47.29:053][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.03.25-18.47.29:148][123]LogSavePackage: Moving 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/LevelJulien893BABBD4ADBD505CE2015986D5696D2.tmp' to 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Content/Levels/LevelJulien.umap'
+[2023.03.25-18.47.29:197][123]AssetCheck: New page: Asset Save: LevelJulien
+[2023.03.25-18.47.29:197][123]LogContentValidation: Display: Validating World /Game/Levels/LevelJulien.LevelJulien
+[2023.03.25-18.47.33:200][463]LogEditorViewport: Clicking Background
+[2023.03.25-18.57.29:199][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.03.25-18.57.29:199][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/Autosaves/Game/Levels/MainLevel_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.03.25-18.57.29:292][409]LogSavePackage: Moving 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/MainLevel_Auto96AD988324CFB9C9765171FBB9E8F66A6.tmp' to 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/Autosaves/Game/Levels/MainLevel_Auto9.umap'
+[2023.03.25-18.57.29:387][409]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.194
+[2023.03.25-18.57.29:388][409]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.194
+[2023.03.25-19.11.20:296][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_185)
+[2023.03.25-19.11.21:077][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_186)
+[2023.03.25-19.11.21:642][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_191)
+[2023.03.25-19.11.22:178][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_192)
+[2023.03.25-19.11.22:672][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_197)
+[2023.03.25-19.11.23:223][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_198)
+[2023.03.25-19.11.23:923][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_203)
+[2023.03.25-19.11.24:550][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_204)
+[2023.03.25-19.11.24:993][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_209)
+[2023.03.25-19.11.25:496][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_210)
+[2023.03.25-19.11.46:402][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_207)
+[2023.03.25-19.11.55:289][362]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-19.11.55:295][362]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-19.11.55:696][362]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-19.11.55:702][362]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-19.11.56:077][362]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-19.11.56:082][362]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-19.11.56:479][362]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-19.11.56:485][362]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-19.11.56:814][362]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-19.11.56:820][362]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-19.11.57:231][362]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-19.11.57:237][362]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-19.12.23:584][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_214)
+[2023.03.25-19.12.26:652][499]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-19.12.26:661][499]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-19.12.26:995][499]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-19.12.27:000][499]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-19.12.27:312][499]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-19.12.27:318][499]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-19.12.27:686][499]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-19.12.27:691][499]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-19.12.56:892][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_160)
+[2023.03.25-19.14.14:198][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_192)
+[2023.03.25-19.14.14:811][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_191)
+[2023.03.25-19.14.15:437][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_192)
+[2023.03.25-19.14.16:063][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_197)
+[2023.03.25-19.14.17:774][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_165)
+[2023.03.25-19.15.01:583][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_170)
+[2023.03.25-19.15.13:758][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_210)
+[2023.03.25-19.16.01:014][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_173)
+[2023.03.25-19.16.57:900][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_181)
+[2023.03.25-19.17.44:608][864]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (GameDesignModuleWallF__1_182)
+[2023.03.25-19.17.53:287][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.03.25-19.17.53:289][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/Autosaves/Game/Levels/MainLevel_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.03.25-19.17.53:344][882]LogSavePackage: Moving 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/MainLevel_Auto086DE462440A9401A819044A299046906.tmp' to 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/Autosaves/Game/Levels/MainLevel_Auto0.umap'
+[2023.03.25-19.17.53:667][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelJulien" FILE="H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/Autosaves/Game/Levels/LevelJulien_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.03.25-19.17.53:738][882]LogSavePackage: Moving 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/LevelJulien_Auto02CF0CB834728194EDB9B22AC5470137A.tmp' to 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/Autosaves/Game/Levels/LevelJulien_Auto0.umap'
+[2023.03.25-19.17.53:778][882]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.496
+[2023.03.25-19.17.53:778][882]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.496
+[2023.03.25-19.18.34:714][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_219)
+[2023.03.25-19.18.37:983][ 31]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-19.18.37:988][ 31]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-19.19.57:926][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelJulien" FILE="H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Content/Levels/LevelJulien.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.25-19.19.57:931][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.03.25-19.19.58:005][165]LogSavePackage: Moving 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/LevelJulienDF199C104B907AF5F07E1A98E134059D.tmp' to 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Content/Levels/LevelJulien.umap'
+[2023.03.25-19.19.58:395][165]AssetCheck: New page: Asset Save: LevelJulien
+[2023.03.25-19.19.58:395][165]LogContentValidation: Display: Validating World /Game/Levels/LevelJulien.LevelJulien
+[2023.03.25-19.21.37:125][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_183)
+[2023.03.25-19.21.41:663][506]Cmd: TRANSACTION UNDO
+[2023.03.25-19.21.41:663][506]LogEditorTransaction: Undo Move Actors
+[2023.03.25-19.21.43:859][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_181)
+[2023.03.25-19.22.42:569][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_171)
+[2023.03.25-19.22.44:883][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_173)
+[2023.03.25-19.24.38:628][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_197)
+[2023.03.25-19.24.53:626][654]Cmd: POLY SELECT MEMORY UNION
+[2023.03.25-19.26.11:735][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_212)
+[2023.03.25-19.26.12:277][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_211)
+[2023.03.25-19.26.15:561][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_219)
+[2023.03.25-19.26.41:281][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_210)
+[2023.03.25-19.26.41:905][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_206)
+[2023.03.25-19.26.42:570][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_208)
+[2023.03.25-19.26.43:022][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_216)
+[2023.03.25-19.26.43:394][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_212)
+[2023.03.25-19.26.43:749][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_214)
+[2023.03.25-19.26.44:118][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_218)
+[2023.03.25-19.26.44:498][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_220)
+[2023.03.25-19.27.06:439][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_215)
+[2023.03.25-19.27.16:887][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_219)
+[2023.03.25-19.27.29:607][979]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-19.27.29:611][979]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-19.27.30:009][979]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-19.27.30:013][979]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-19.27.30:397][979]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-19.27.30:403][979]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-19.27.30:741][979]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-19.27.30:748][979]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-19.27.31:076][979]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.25-19.27.31:080][979]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.25-19.28.32:285][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_224)
+[2023.03.25-19.29.18:560][580]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (GameDesignModuleFloor__1_226)
+[2023.03.25-19.29.40:335][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_232)
+[2023.03.25-19.29.55:357][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_231)
+[2023.03.25-19.29.56:106][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_229)
+[2023.03.25-19.29.57:104][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_231)
+[2023.03.25-19.30.15:566][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_237)
+[2023.03.25-19.31.35:716][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_255)
+[2023.03.25-19.31.43:149][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_243)
+[2023.03.25-19.31.43:579][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_244)
+[2023.03.25-19.31.43:976][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_247)
+[2023.03.25-19.31.44:400][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_248)
+[2023.03.25-19.31.44:826][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_251)
+[2023.03.25-19.31.45:208][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_252)
+[2023.03.25-19.31.45:583][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_255)
+[2023.03.25-19.31.45:917][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_256)
+[2023.03.25-19.32.21:178][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.25-19.32.21:180][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelJulien" FILE="H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/Autosaves/Game/Levels/LevelJulien_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.03.25-19.32.21:575][291]LogSavePackage: Moving 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/LevelJulien_Auto126B0469247B85E60141B5295CBD4A482.tmp' to 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/Autosaves/Game/Levels/LevelJulien_Auto1.umap'
+[2023.03.25-19.32.21:645][291]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.472
+[2023.03.25-19.32.21:645][291]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.472
+[2023.03.25-19.32.46:528][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_256)
+[2023.03.25-19.33.40:495][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_262)
+[2023.03.25-19.36.28:713][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_185)
+[2023.03.25-19.37.14:889][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_189)
+[2023.03.25-19.37.38:878][ 90]Cmd: DELETE
+[2023.03.25-19.37.38:878][ 90]Cmd: ACTOR DELETE
+[2023.03.25-19.37.38:889][ 90]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.25-19.37.38:889][ 90]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.25-19.37.38:889][ 90]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.25-19.37.38:889][ 90]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.25-19.37.38:889][ 90]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.25-19.37.38:890][ 90]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.25-19.37.38:890][ 90]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.25-19.37.38:890][ 90]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.25-19.37.38:896][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.25-19.37.38:897][ 90]LogEditorActor: Deleted 8 Actors (0.018 secs)
+[2023.03.25-19.37.40:155][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_209)
+[2023.03.25-19.37.40:266][242]Cmd: DELETE
+[2023.03.25-19.37.40:266][242]Cmd: ACTOR DELETE
+[2023.03.25-19.37.40:271][242]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.25-19.37.40:277][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.03.25-19.37.40:277][242]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.03.25-19.37.40:608][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_208)
+[2023.03.25-19.37.40:679][286]Cmd: DELETE
+[2023.03.25-19.37.40:679][286]Cmd: ACTOR DELETE
+[2023.03.25-19.37.40:686][286]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.25-19.37.40:691][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.03.25-19.37.40:692][286]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.03.25-19.37.41:070][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_207)
+[2023.03.25-19.37.41:102][332]Cmd: DELETE
+[2023.03.25-19.37.41:103][332]Cmd: ACTOR DELETE
+[2023.03.25-19.37.41:109][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.25-19.37.41:113][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.03.25-19.37.41:113][332]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.03.25-19.37.41:569][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_206)
+[2023.03.25-19.37.41:611][388]Cmd: DELETE
+[2023.03.25-19.37.41:611][388]Cmd: ACTOR DELETE
+[2023.03.25-19.37.41:617][388]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.25-19.37.41:621][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.03.25-19.37.41:622][388]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.03.25-19.37.43:988][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelJulien" FILE="H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Content/Levels/LevelJulien.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.25-19.37.43:992][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.03.25-19.37.44:070][663]LogSavePackage: Moving 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/LevelJulien57C5F28145A6DABB6338559F2DBCCA62.tmp' to 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Content/Levels/LevelJulien.umap'
+[2023.03.25-19.37.44:135][663]AssetCheck: New page: Asset Save: LevelJulien
+[2023.03.25-19.37.44:135][663]LogContentValidation: Display: Validating World /Game/Levels/LevelJulien.LevelJulien
+[2023.03.25-19.37.49:278][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_182)
+[2023.03.25-19.37.49:913][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_183)
+[2023.03.25-19.38.16:200][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_226)
+[2023.03.25-19.38.16:858][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_207)
+[2023.03.25-19.38.18:572][521]Cmd: TRANSACTION UNDO
+[2023.03.25-19.38.18:572][521]LogEditorTransaction: Undo Move Actors
+[2023.03.25-19.38.25:283][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_206)
+[2023.03.25-19.39.01:211][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_207)
+[2023.03.25-19.39.05:129][719]Cmd: DELETE
+[2023.03.25-19.39.05:129][719]Cmd: ACTOR DELETE
+[2023.03.25-19.39.05:136][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.25-19.39.05:142][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.25-19.39.05:143][719]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.03.25-19.39.05:674][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_206)
+[2023.03.25-19.40.33:453][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleFloor__1_227)
+[2023.03.25-19.40.34:277][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_210)
+[2023.03.25-19.41.43:491][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_217)
+[2023.03.25-19.42.40:019][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelJulien" FILE="H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Content/Levels/LevelJulien.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.25-19.42.40:026][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.03.25-19.42.40:114][708]LogSavePackage: Moving 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Saved/LevelJulienC7E7A8364B11513D0FF6A18B66F3F9A7.tmp' to 'H:/Cours/Level-Design/Hide&Seek/SourcetreeDeux/Content/Levels/LevelJulien.umap'
+[2023.03.25-19.42.40:811][708]AssetCheck: New page: Asset Save: LevelJulien
+[2023.03.25-19.42.40:811][708]LogContentValidation: Display: Validating World /Game/Levels/LevelJulien.LevelJulien
