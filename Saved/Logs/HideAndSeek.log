@@ -1104,3 +1104,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.27-10.53.58:085][686]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
 [2023.03.27-10.53.58:085][686]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
 [2023.03.27-10.54.25:409][876]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2023.03.27-10.57.43:955][943]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NathanBluePrints/BP_PiedDeBiche.BP_PiedDeBiche
+[2023.03.27-10.57.44:576][943]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 126 classes and 0 folders.
+[2023.03.27-10.57.46:176][943]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NathanBluePrints/BP_Planches.BP_Planches
+[2023.03.27-10.57.46:442][943]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/EthanBluePrints/BP_MyPlayerController.BP_MyPlayerController
+[2023.03.27-10.57.46:776][943]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NathanBluePrints/BP_BoucheEgout.BP_BoucheEgout
+[2023.03.27-10.57.47:146][943]LogSlate: Took 0.032274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.27-10.57.47:567][944]LogSlate: Took 0.007837 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.27-10.57.52:257][283]LogSlate: Window 'BP_MyPlayerController' being destroyed
