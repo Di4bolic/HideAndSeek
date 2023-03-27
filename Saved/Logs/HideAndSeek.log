@@ -2449,3 +2449,89 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.27-12.11.06:782][563]LogSavePackage: Moving 'C:/Users/j.brizou/Desktop/SourcetreeTrois/Saved/LevelJulien_Auto293CA108E481E5C2DFD4570BD9A16E213.tmp' to 'C:/Users/j.brizou/Desktop/SourcetreeTrois/Saved/Autosaves/Game/Levels/LevelJulien_Auto2.umap'
 [2023.03.27-12.11.06:784][563]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.144
 [2023.03.27-12.11.06:784][563]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.144
+[2023.03.27-12.13.12:170][664]Cmd: POLY SELECT ALL
+[2023.03.27-12.13.19:953][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.03.27-12.13.24:047][448]LogSlate: Window 'Save Content' being destroyed
+[2023.03.27-12.13.24:080][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelJulien" FILE="C:/Users/j.brizou/Desktop/SourcetreeTrois/Content/Levels/LevelJulien.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.27-12.13.24:086][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.03.27-12.13.24:173][448]LogSavePackage: Moving 'C:/Users/j.brizou/Desktop/SourcetreeTrois/Saved/LevelJulienA0CEEA124D8B35C6DCA022B58D501E28.tmp' to 'C:/Users/j.brizou/Desktop/SourcetreeTrois/Content/Levels/LevelJulien.umap'
+[2023.03.27-12.13.24:176][448]LogFileHelpers: Saving map 'LevelJulien' took 0.097
+[2023.03.27-12.13.24:176][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="C:/Users/j.brizou/Desktop/SourcetreeTrois/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.27-12.13.24:181][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.03.27-12.13.24:216][448]LogSavePackage: Moving 'C:/Users/j.brizou/Desktop/SourcetreeTrois/Saved/MainLevel7BE8B0C546A7A541619D48AA25B22A63.tmp' to 'C:/Users/j.brizou/Desktop/SourcetreeTrois/Content/Levels/MainLevel.umap'
+[2023.03.27-12.13.24:227][448]LogFileHelpers: Saving map 'MainLevel' took 0.051
+[2023.03.27-12.13.24:242][448]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LevelEvan.LevelEvan
+[2023.03.27-12.13.24:242][448]Cmd: MAP LOAD FILE="C:/Users/j.brizou/Desktop/SourcetreeTrois/Content/Levels/LevelEvan.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.27-12.13.24:242][448]LightingResults: New page: Lighting Build
+[2023.03.27-12.13.24:242][448]LoadErrors: New page: Loading map: LevelEvan.umap
+[2023.03.27-12.13.24:290][448]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-12.13.24:290][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-12.13.24:291][448]LogWorld: UWorld::CleanupWorld for LevelEvan, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-12.13.24:291][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-12.13.24:291][448]LogWorld: UWorld::CleanupWorld for LevelNathan, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-12.13.24:291][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-12.13.24:291][448]LogWorld: UWorld::CleanupWorld for LevelJolan, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-12.13.24:291][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-12.13.24:291][448]LogWorld: UWorld::CleanupWorld for LevelJulien, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-12.13.24:291][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-12.13.24:291][448]LogWorld: UWorld::CleanupWorld for LevelCharles, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-12.13.24:291][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-12.13.24:291][448]LogWorld: UWorld::CleanupWorld for LevelEthan, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-12.13.24:291][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-12.13.24:291][448]LogWorld: UWorld::CleanupWorld for LevelPaolo, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-12.13.24:291][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-12.13.24:291][448]LogWorld: UWorld::CleanupWorld for LevelPaul, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-12.13.24:291][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-12.13.24:292][448]MapCheck: New page: Map Check
+[2023.03.27-12.13.24:292][448]LightingResults: New page: Lighting Build
+[2023.03.27-12.13.24:299][448]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-12.13.24:305][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.03.27-12.13.24:308][448]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelEvan'.
+[2023.03.27-12.13.24:308][448]LogAIModule: Creating AISystem for world LevelEvan
+[2023.03.27-12.13.24:330][448]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.27-12.13.24:337][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.03.27-12.13.24:346][448]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.27-12.13.24:346][448]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,087ms to complete.
+[2023.03.27-12.13.24:346][448]LogFileHelpers: Loading map 'LevelEvan' took 0.104
+[2023.03.27-12.13.24:365][448]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.27-12.13.24:365][448]LogContentValidation: Display: Validating World /Game/Levels/LevelJulien.LevelJulien
+[2023.03.27-12.13.24:397][448]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2023.03.27-12.13.24:439][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.03.27-12.13.30:508][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.03.27-12.13.31:925][ 52]LogSlate: Window 'Save Content' being destroyed
+[2023.03.27-12.13.31:949][ 52]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainLevel.MainLevel
+[2023.03.27-12.13.31:949][ 52]Cmd: MAP LOAD FILE="C:/Users/j.brizou/Desktop/SourcetreeTrois/Content/Levels/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.27-12.13.31:949][ 52]LightingResults: New page: Lighting Build
+[2023.03.27-12.13.31:949][ 52]LoadErrors: New page: Loading map: MainLevel.umap
+[2023.03.27-12.13.31:985][ 52]LogWorld: UWorld::CleanupWorld for LevelEvan, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-12.13.31:985][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-12.13.31:986][ 52]MapCheck: New page: Map Check
+[2023.03.27-12.13.31:986][ 52]LightingResults: New page: Lighting Build
+[2023.03.27-12.13.31:992][ 52]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-12.13.31:994][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.03.27-12.13.32:005][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.03.27-12.13.32:011][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.03.27-12.13.32:011][ 52]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel'.
+[2023.03.27-12.13.32:031][ 52]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelEvan) is flushing async loading
+[2023.03.27-12.13.32:031][ 52]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.03.27-12.13.32:033][ 52]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelPaul) is flushing async loading
+[2023.03.27-12.13.32:035][ 52]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelNathan) is flushing async loading
+[2023.03.27-12.13.32:048][ 52]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelPaolo) is flushing async loading
+[2023.03.27-12.13.32:051][ 52]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelJolan) is flushing async loading
+[2023.03.27-12.13.32:131][ 52]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelJulien) is flushing async loading
+[2023.03.27-12.13.32:268][ 52]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelCharles) is flushing async loading
+[2023.03.27-12.13.32:275][ 52]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelEthan) is flushing async loading
+[2023.03.27-12.13.32:347][ 52]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.27-12.13.32:347][ 52]LogAIModule: Creating AISystem for world MainLevel
+[2023.03.27-12.13.32:598][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.03.27-12.13.32:607][ 52]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.27-12.13.32:607][ 52]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,33ms to complete.
+[2023.03.27-12.13.32:607][ 52]LogFileHelpers: Loading map 'MainLevel' took 0.658
+[2023.03.27-12.14.44:538][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="C:/Users/j.brizou/Desktop/SourcetreeTrois/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.27-12.14.44:545][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.03.27-12.14.44:582][562]LogSavePackage: Moving 'C:/Users/j.brizou/Desktop/SourcetreeTrois/Saved/MainLevelCDD119284720B180E26B868F918FBE41.tmp' to 'C:/Users/j.brizou/Desktop/SourcetreeTrois/Content/Levels/MainLevel.umap'
+[2023.03.27-12.14.44:593][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel_BuiltData" FILE="C:/Users/j.brizou/Desktop/SourcetreeTrois/Content/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2023.03.27-12.14.44:656][562]LogSavePackage: Moving 'C:/Users/j.brizou/Desktop/SourcetreeTrois/Saved/MainLevel_BuiltDataF95616CC40EEF526B011A9BCE422D901.tmp' to 'C:/Users/j.brizou/Desktop/SourcetreeTrois/Content/Levels/MainLevel_BuiltData.uasset'
+[2023.03.27-12.14.44:664][562]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.27-12.14.44:664][562]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2023.03.27-12.14.44:664][562]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
