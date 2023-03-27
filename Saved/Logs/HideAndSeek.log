@@ -1552,3 +1552,291 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.27-11.30.39:774][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
 [2023.03.27-11.30.41:094][793]LogSlate: Window 'Message Log' being destroyed
 [2023.03.27-11.30.41:098][793]LogSlate: Window 'Message Log' being destroyed
+[2023.03.27-11.33.49:815][613]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.27-11.33.49:822][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.27-11.33.49:823][613]PIE: New page: PIE session: MainLevel (27 mars 2023 à 15:33:49)
+[2023.03.27-11.33.49:824][613]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.03.27-11.33.49:825][613]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.03.27-11.33.49:825][613]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2023.03.27-11.33.49:836][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011464s)
+[2023.03.27-11.33.49:837][613]LogAIModule: Creating AISystem for world MainLevel
+[2023.03.27-11.33.49:837][613]LogPlayLevel: PIE: World Init took: (0.001299s)
+[2023.03.27-11.33.49:837][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.012920s)
+[2023.03.27-11.33.49:844][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.03.27-11.33.49:846][613]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.03.27-11.33.49:846][613]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.27-11.33.49:846][613]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.27-11.33.49:846][613]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.27-11.33.49:846][613]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.27-11.33.49:846][613]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.27-11.33.49:846][613]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.27-11.33.49:846][613]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.27-11.33.49:846][613]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.27-11.33.49:847][613]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.27-11.33.49:847][613]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.27-11.33.49:847][613]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.27-11.33.49:847][613]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.27-11.33.49:849][613]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.27-11.33.49:849][613]LogAudioMixer: Display: 1: FrontRight
+[2023.03.27-11.33.49:854][613]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Synaptics HD Audio)
+[2023.03.27-11.33.49:854][613]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.27-11.33.49:854][613]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.27-11.33.49:854][613]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.27-11.33.49:855][613]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.27-11.33.49:855][613]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.27-11.33.49:856][613]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.27-11.33.49:857][613]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.27-11.33.49:857][613]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.27-11.33.49:857][613]LogInit: FAudioDevice initialized.
+[2023.03.27-11.33.49:857][613]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainLevel'.
+[2023.03.27-11.33.49:865][613]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.03.27-11.33.49:868][613]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.03.27-13.33.49
+[2023.03.27-11.33.49:869][613]LogWorld: Bringing up level for play took: 0.002944
+[2023.03.27-11.33.49:869][613]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2023.03.27-11.33.49:872][613]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2023.03.27-11.33.49:924][613]PIE: Server logged in
+[2023.03.27-11.33.49:925][613]PIE: Play in editor total start time 0,104 seconds.
+[2023.03.27-11.33.51:398][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.27-11.33.51:398][782]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.03.27-11.33.51:400][782]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.33.51:401][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.33.51:409][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.27-11.33.51:411][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.33.51:415][782]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-11.33.51:415][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.27-11.33.51:416][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.27-11.33.51:418][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.27-11.33.51:423][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.03.27-11.33.51:444][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.03.27-11.33.51:477][785]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2023.03.27-11.34.00:314][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.03.27-11.34.00:343][798]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainLevel.MainLevel
+[2023.03.27-11.34.00:343][798]Cmd: MAP LOAD FILE="C:/Users/j.brizou/Desktop/SourcetreeTrois/Content/Levels/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.27-11.34.00:343][798]LightingResults: New page: Lighting Build
+[2023.03.27-11.34.00:343][798]LoadErrors: New page: Loading map: MainLevel.umap
+[2023.03.27-11.34.00:382][798]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.00:382][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.00:383][798]LogWorld: UWorld::CleanupWorld for LevelPaolo, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.00:383][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.00:383][798]LogWorld: UWorld::CleanupWorld for LevelEvan, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.00:383][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.00:383][798]LogWorld: UWorld::CleanupWorld for LevelCharles, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.00:383][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.00:383][798]LogWorld: UWorld::CleanupWorld for LevelEthan, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.00:383][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.00:383][798]LogWorld: UWorld::CleanupWorld for LevelJolan, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.00:383][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.00:383][798]LogWorld: UWorld::CleanupWorld for LevelJulien, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.00:383][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.00:383][798]LogWorld: UWorld::CleanupWorld for LevelPaul, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.00:383][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.00:383][798]LogWorld: UWorld::CleanupWorld for LevelNathan, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.00:383][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.00:383][798]MapCheck: New page: Map Check
+[2023.03.27-11.34.00:383][798]LightingResults: New page: Lighting Build
+[2023.03.27-11.34.00:389][798]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-11.34.00:392][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.03.27-11.34.00:434][798]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel'.
+[2023.03.27-11.34.00:435][798]LogAIModule: Creating AISystem for world MainLevel
+[2023.03.27-11.34.00:447][798]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelCharles) is flushing async loading
+[2023.03.27-11.34.00:447][798]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.03.27-11.34.00:449][798]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelPaolo) is flushing async loading
+[2023.03.27-11.34.00:451][798]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelJolan) is flushing async loading
+[2023.03.27-11.34.00:452][798]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelNathan) is flushing async loading
+[2023.03.27-11.34.00:465][798]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelJulien) is flushing async loading
+[2023.03.27-11.34.00:603][798]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelPaul) is flushing async loading
+[2023.03.27-11.34.00:609][798]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelEthan) is flushing async loading
+[2023.03.27-11.34.00:611][798]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelEvan) is flushing async loading
+[2023.03.27-11.34.00:673][798]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.27-11.34.00:920][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.03.27-11.34.00:928][798]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.27-11.34.00:929][798]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,362ms to complete.
+[2023.03.27-11.34.00:929][798]LogFileHelpers: Loading map 'MainLevel' took 0.586
+[2023.03.27-11.34.00:983][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.03.27-11.34.08:895][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.03.27-11.34.08:930][720]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LevelJolan.LevelJolan
+[2023.03.27-11.34.08:930][720]Cmd: MAP LOAD FILE="C:/Users/j.brizou/Desktop/SourcetreeTrois/Content/Levels/LevelJolan.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.27-11.34.08:930][720]LightingResults: New page: Lighting Build
+[2023.03.27-11.34.08:930][720]LoadErrors: New page: Loading map: LevelJolan.umap
+[2023.03.27-11.34.08:982][720]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.08:982][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.08:982][720]LogWorld: UWorld::CleanupWorld for LevelCharles, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.08:982][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.08:982][720]LogWorld: UWorld::CleanupWorld for LevelPaolo, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.08:982][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.08:982][720]LogWorld: UWorld::CleanupWorld for LevelJolan, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.08:982][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.08:982][720]LogWorld: UWorld::CleanupWorld for LevelNathan, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.08:982][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.08:982][720]LogWorld: UWorld::CleanupWorld for LevelJulien, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.08:982][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.08:982][720]LogWorld: UWorld::CleanupWorld for LevelPaul, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.08:982][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.08:982][720]LogWorld: UWorld::CleanupWorld for LevelEthan, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.08:982][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.08:982][720]LogWorld: UWorld::CleanupWorld for LevelEvan, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.08:982][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.08:983][720]MapCheck: New page: Map Check
+[2023.03.27-11.34.08:983][720]LightingResults: New page: Lighting Build
+[2023.03.27-11.34.08:989][720]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-11.34.08:995][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.03.27-11.34.09:000][720]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelJolan'.
+[2023.03.27-11.34.09:001][720]LogAIModule: Creating AISystem for world LevelJolan
+[2023.03.27-11.34.09:020][720]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.27-11.34.09:027][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.03.27-11.34.09:035][720]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.27-11.34.09:035][720]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,073ms to complete.
+[2023.03.27-11.34.09:035][720]LogFileHelpers: Loading map 'LevelJolan' took 0.106
+[2023.03.27-11.34.09:057][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.03.27-11.34.12:035][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.03.27-11.34.12:086][ 11]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainLevel.MainLevel
+[2023.03.27-11.34.12:086][ 11]Cmd: MAP LOAD FILE="C:/Users/j.brizou/Desktop/SourcetreeTrois/Content/Levels/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.27-11.34.12:086][ 11]LightingResults: New page: Lighting Build
+[2023.03.27-11.34.12:086][ 11]LoadErrors: New page: Loading map: MainLevel.umap
+[2023.03.27-11.34.12:087][ 11]LogWorld: UWorld::CleanupWorld for LevelJolan, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.12:087][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.12:087][ 11]MapCheck: New page: Map Check
+[2023.03.27-11.34.12:087][ 11]LightingResults: New page: Lighting Build
+[2023.03.27-11.34.12:092][ 11]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-11.34.12:093][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.03.27-11.34.12:093][ 11]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel'.
+[2023.03.27-11.34.12:104][ 11]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelPaolo) is flushing async loading
+[2023.03.27-11.34.12:104][ 11]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.03.27-11.34.12:106][ 11]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelPaul) is flushing async loading
+[2023.03.27-11.34.12:108][ 11]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelNathan) is flushing async loading
+[2023.03.27-11.34.12:121][ 11]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelJolan) is flushing async loading
+[2023.03.27-11.34.12:122][ 11]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelJulien) is flushing async loading
+[2023.03.27-11.34.12:254][ 11]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelCharles) is flushing async loading
+[2023.03.27-11.34.12:260][ 11]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelEthan) is flushing async loading
+[2023.03.27-11.34.12:262][ 11]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelEvan) is flushing async loading
+[2023.03.27-11.34.12:324][ 11]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.27-11.34.12:324][ 11]LogAIModule: Creating AISystem for world MainLevel
+[2023.03.27-11.34.12:563][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.03.27-11.34.12:571][ 11]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.27-11.34.12:572][ 11]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,321ms to complete.
+[2023.03.27-11.34.12:572][ 11]LogFileHelpers: Loading map 'MainLevel' took 0.485
+[2023.03.27-11.34.14:619][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.27-11.34.14:706][171]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LevelPaul.LevelPaul
+[2023.03.27-11.34.14:707][171]Cmd: MAP LOAD FILE="C:/Users/j.brizou/Desktop/SourcetreeTrois/Content/Levels/LevelPaul.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.27-11.34.14:707][171]LightingResults: New page: Lighting Build
+[2023.03.27-11.34.14:707][171]LoadErrors: New page: Loading map: LevelPaul.umap
+[2023.03.27-11.34.14:762][171]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.14:762][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.14:762][171]LogWorld: UWorld::CleanupWorld for LevelPaolo, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.14:762][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.14:762][171]LogWorld: UWorld::CleanupWorld for LevelPaul, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.14:762][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.14:762][171]LogWorld: UWorld::CleanupWorld for LevelNathan, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.14:762][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.14:762][171]LogWorld: UWorld::CleanupWorld for LevelJolan, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.14:762][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.14:762][171]LogWorld: UWorld::CleanupWorld for LevelJulien, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.14:762][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.14:762][171]LogWorld: UWorld::CleanupWorld for LevelCharles, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.14:762][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.14:762][171]LogWorld: UWorld::CleanupWorld for LevelEthan, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.14:762][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.14:762][171]LogWorld: UWorld::CleanupWorld for LevelEvan, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.14:762][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.14:762][171]MapCheck: New page: Map Check
+[2023.03.27-11.34.14:762][171]LightingResults: New page: Lighting Build
+[2023.03.27-11.34.14:769][171]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-11.34.14:772][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.03.27-11.34.14:774][171]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelPaul'.
+[2023.03.27-11.34.14:774][171]LogAIModule: Creating AISystem for world LevelPaul
+[2023.03.27-11.34.14:793][171]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.27-11.34.14:799][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.27-11.34.14:807][171]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.27-11.34.14:807][171]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,069ms to complete.
+[2023.03.27-11.34.14:807][171]LogFileHelpers: Loading map 'LevelPaul' took 0.100
+[2023.03.27-11.34.14:829][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.03.27-11.34.15:378][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.03.27-11.34.15:437][218]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainLevel.MainLevel
+[2023.03.27-11.34.15:438][218]Cmd: MAP LOAD FILE="C:/Users/j.brizou/Desktop/SourcetreeTrois/Content/Levels/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.27-11.34.15:438][218]LightingResults: New page: Lighting Build
+[2023.03.27-11.34.15:438][218]LoadErrors: New page: Loading map: MainLevel.umap
+[2023.03.27-11.34.15:477][218]LogWorld: UWorld::CleanupWorld for LevelPaul, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.15:477][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.15:478][218]MapCheck: New page: Map Check
+[2023.03.27-11.34.15:478][218]LightingResults: New page: Lighting Build
+[2023.03.27-11.34.15:483][218]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-11.34.15:484][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.03.27-11.34.15:485][218]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel'.
+[2023.03.27-11.34.15:497][218]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelPaolo) is flushing async loading
+[2023.03.27-11.34.15:497][218]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.03.27-11.34.15:499][218]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelJolan) is flushing async loading
+[2023.03.27-11.34.15:501][218]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelPaul) is flushing async loading
+[2023.03.27-11.34.15:503][218]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelCharles) is flushing async loading
+[2023.03.27-11.34.15:505][218]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelEthan) is flushing async loading
+[2023.03.27-11.34.15:507][218]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelJulien) is flushing async loading
+[2023.03.27-11.34.15:648][218]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelNathan) is flushing async loading
+[2023.03.27-11.34.15:662][218]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelEvan) is flushing async loading
+[2023.03.27-11.34.15:722][218]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.27-11.34.15:722][218]LogAIModule: Creating AISystem for world MainLevel
+[2023.03.27-11.34.15:961][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.03.27-11.34.15:969][218]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.27-11.34.15:969][218]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,313ms to complete.
+[2023.03.27-11.34.15:969][218]LogFileHelpers: Loading map 'MainLevel' took 0.531
+[2023.03.27-11.34.22:353][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.03.27-11.34.22:384][944]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LevelJolan.LevelJolan
+[2023.03.27-11.34.22:384][944]Cmd: MAP LOAD FILE="C:/Users/j.brizou/Desktop/SourcetreeTrois/Content/Levels/LevelJolan.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.27-11.34.22:384][944]LightingResults: New page: Lighting Build
+[2023.03.27-11.34.22:384][944]LoadErrors: New page: Loading map: LevelJolan.umap
+[2023.03.27-11.34.22:392][944]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.22:392][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.22:392][944]LogWorld: UWorld::CleanupWorld for LevelPaolo, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.22:392][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.22:392][944]LogWorld: UWorld::CleanupWorld for LevelJolan, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.22:392][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.22:392][944]LogWorld: UWorld::CleanupWorld for LevelPaul, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.22:392][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.22:393][944]LogWorld: UWorld::CleanupWorld for LevelCharles, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.22:393][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.22:393][944]LogWorld: UWorld::CleanupWorld for LevelEthan, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.22:393][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.22:393][944]LogWorld: UWorld::CleanupWorld for LevelJulien, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.22:393][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.22:393][944]LogWorld: UWorld::CleanupWorld for LevelNathan, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.22:393][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.22:393][944]LogWorld: UWorld::CleanupWorld for LevelEvan, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.22:393][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.22:393][944]MapCheck: New page: Map Check
+[2023.03.27-11.34.22:393][944]LightingResults: New page: Lighting Build
+[2023.03.27-11.34.22:400][944]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-11.34.22:403][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.03.27-11.34.22:405][944]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelJolan'.
+[2023.03.27-11.34.22:405][944]LogAIModule: Creating AISystem for world LevelJolan
+[2023.03.27-11.34.22:424][944]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.27-11.34.22:431][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.03.27-11.34.22:439][944]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.27-11.34.22:439][944]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,072ms to complete.
+[2023.03.27-11.34.22:439][944]LogFileHelpers: Loading map 'LevelJolan' took 0.055
+[2023.03.27-11.34.22:461][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.03.27-11.34.31:729][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.03.27-11.34.39:438][993]LogSlate: Window 'Save Content' being destroyed
+[2023.03.27-11.34.39:488][993]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainLevel.MainLevel
+[2023.03.27-11.34.39:489][993]Cmd: MAP LOAD FILE="C:/Users/j.brizou/Desktop/SourcetreeTrois/Content/Levels/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.27-11.34.39:489][993]LightingResults: New page: Lighting Build
+[2023.03.27-11.34.39:489][993]LoadErrors: New page: Loading map: MainLevel.umap
+[2023.03.27-11.34.39:518][993]LogWorld: UWorld::CleanupWorld for LevelJolan, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-11.34.39:518][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-11.34.39:518][993]MapCheck: New page: Map Check
+[2023.03.27-11.34.39:518][993]LightingResults: New page: Lighting Build
+[2023.03.27-11.34.39:523][993]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-11.34.39:525][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.03.27-11.34.39:525][993]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel'.
+[2023.03.27-11.34.39:536][993]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelEvan) is flushing async loading
+[2023.03.27-11.34.39:536][993]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.03.27-11.34.39:538][993]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelCharles) is flushing async loading
+[2023.03.27-11.34.39:540][993]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelEthan) is flushing async loading
+[2023.03.27-11.34.39:541][993]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelNathan) is flushing async loading
+[2023.03.27-11.34.39:554][993]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelJolan) is flushing async loading
+[2023.03.27-11.34.39:556][993]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelJulien) is flushing async loading
+[2023.03.27-11.34.39:687][993]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelPaul) is flushing async loading
+[2023.03.27-11.34.39:693][993]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/LevelPaolo) is flushing async loading
+[2023.03.27-11.34.39:753][993]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.27-11.34.39:753][993]LogAIModule: Creating AISystem for world MainLevel
+[2023.03.27-11.34.39:989][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.03.27-11.34.39:996][993]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.27-11.34.39:996][993]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,314ms to complete.
+[2023.03.27-11.34.39:996][993]LogFileHelpers: Loading map 'MainLevel' took 0.508
