@@ -2535,3 +2535,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.27-12.14.44:664][562]AssetCheck: New page: Asset Save: multiple assets
 [2023.03.27-12.14.44:664][562]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
 [2023.03.27-12.14.44:664][562]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2023.03.27-12.16.44:249][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_73)
+[2023.03.27-12.16.53:145][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GameDesignModuleWallF__1_378)
+[2023.03.27-12.17.38:865][ 97]LogEditorViewport: Clicking Background
