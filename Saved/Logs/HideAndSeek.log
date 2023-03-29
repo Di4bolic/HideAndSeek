@@ -2756,3 +2756,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.29-07.34.47:164][240]LogEditorTransaction: Undo Move Actors
 [2023.03.29-07.34.52:001][760]Cmd: TRANSACTION UNDO
 [2023.03.29-07.34.52:001][760]LogEditorTransaction: Undo Scale Actors
+[2023.03.29-07.42.30:599][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.03.29-07.42.30:607][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="C:/Users/game/Documents/HNS/Saved/Autosaves/Game/Levels/MainLevel_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.03.29-07.42.30:622][199]LogSavePackage: Moving 'C:/Users/game/Documents/HNS/Saved/MainLevel_Auto28D22CF7B4C6BDD1D811C0FBFE2F3EE2F.tmp' to 'C:/Users/game/Documents/HNS/Saved/Autosaves/Game/Levels/MainLevel_Auto2.umap'
+[2023.03.29-07.42.30:625][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelJolan" FILE="C:/Users/game/Documents/HNS/Saved/Autosaves/Game/Levels/LevelJolan_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.03.29-07.42.30:653][199]LogSavePackage: Moving 'C:/Users/game/Documents/HNS/Saved/LevelJolan_Auto2B0F90CBE4E93CEEEE5D320A175240AE7.tmp' to 'C:/Users/game/Documents/HNS/Saved/Autosaves/Game/Levels/LevelJolan_Auto2.umap'
+[2023.03.29-07.42.30:654][199]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.074
+[2023.03.29-07.42.30:654][199]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.074
