@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 04/05/23 20:40:08
+=======
+﻿Log file open, 04/03/23 15:24:05
+>>>>>>> main
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -9,35 +13,51 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
 LogInit: Display: Running engine for game: HideAndSeek
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.315900
+=======
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.211484
+>>>>>>> main
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogInit: Display: Loading text-based GConfig....
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
-LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin LiveLink
 LogPluginManager: Mounting plugin LightPropagationVolume
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin GameplayCameras
 LogPluginManager: Mounting plugin CameraShakePreviewer
 LogPluginManager: Mounting plugin OodleData
 LogPluginManager: Mounting plugin OodleNetwork
+=======
+>>>>>>> main
 LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting plugin GitSourceControl
 LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting plugin NullSourceCodeAccess
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin PerforceSourceControl
 LogPluginManager: Mounting plugin PixWinPlugin
+=======
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+>>>>>>> main
 LogPluginManager: Mounting plugin PlasticSourceControl
 LogPluginManager: Mounting plugin PluginUtils
 LogPluginManager: Mounting plugin PropertyAccessNode
 LogPluginManager: Mounting plugin RiderSourceCodeAccess
 LogPluginManager: Mounting plugin SubversionSourceControl
 LogPluginManager: Mounting plugin TextureFormatOodle
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
 LogPluginManager: Mounting plugin XCodeSourceCodeAccess
 LogPluginManager: Mounting plugin AssetManagerEditor
@@ -59,7 +79,33 @@ LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin AlembicImporter
 LogPluginManager: Mounting plugin AutomationUtils
 LogPluginManager: Mounting plugin BackChannel
+=======
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin PluginBrowser
+>>>>>>> main
 LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
 LogPluginManager: Mounting plugin ChaosEditor
 LogPluginManager: Mounting plugin ChaosClothEditor
 LogPluginManager: Mounting plugin ChaosNiagara
@@ -67,14 +113,24 @@ LogPluginManager: Mounting plugin ChaosSolverPlugin
 LogPluginManager: Mounting plugin CharacterAI
 LogPluginManager: Mounting plugin GeometryCache
 LogPluginManager: Mounting plugin GeometryCollectionPlugin
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin GeometryProcessing
+=======
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin VariantManagerContent
+>>>>>>> main
 LogPluginManager: Mounting plugin MotoSynth
 LogPluginManager: Mounting plugin OpenImageDenoise
 LogPluginManager: Mounting plugin PlanarCut
 LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin SkeletalReduction
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin LuminPlatformFeatures
 LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin MagicLeapMedia
@@ -91,6 +147,14 @@ LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin UdpMessaging
+=======
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+>>>>>>> main
 LogPluginManager: Mounting plugin ActorSequence
 LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin MatineeToLevelSequence
@@ -98,12 +162,17 @@ LogPluginManager: Mounting plugin TemplateSequence
 LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin OnlineSubsystemNull
 LogPluginManager: Mounting plugin LauncherChunkInstaller
+<<<<<<< HEAD
+=======
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+>>>>>>> main
 LogPluginManager: Mounting plugin ActorLayerUtilities
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AndroidPermission
 LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin AppleMoviePlayer
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin OnlineSubsystemUtils
 LogPluginManager: Mounting plugin ArchVisCharacter
 LogPluginManager: Mounting plugin AudioSynesthesia
@@ -112,6 +181,17 @@ LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting plugin EditableMesh
+=======
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+>>>>>>> main
 LogPluginManager: Mounting plugin GoogleCloudMessaging
 LogPluginManager: Mounting plugin GooglePAD
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
@@ -122,21 +202,35 @@ LogPluginManager: Mounting plugin AssetTags
 LogPluginManager: Mounting plugin OpenXRHandTracking
 LogPluginManager: Mounting plugin OpenXR
 LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin PostSplashScreen
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin OpenXREyeTracker
+=======
+>>>>>>> main
 LogPluginManager: Mounting plugin PropertyAccessEditor
-LogPluginManager: Mounting plugin ProceduralMeshComponent
-LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+<<<<<<< HEAD
+LogPluginManager: Mounting plugin SignificanceManager
+=======
+>>>>>>> main
 LogPluginManager: Mounting plugin SoundFields
 LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin Takes
-LogPluginManager: Mounting plugin ScreenshotTools
-LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserFileDataSource
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
@@ -170,13 +264,22 @@ LogInit: Build: ++UE4+Release-4.27-CL-18319896
 LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
 LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
 LogInit: Net CL: 17155196
+<<<<<<< HEAD
 LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz, GPU: NVIDIA GeForce RTX 2060
+=======
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz, GPU: NVIDIA GeForce RTX 2060
+>>>>>>> main
 LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
 LogInit: Compiled with Visual C++: 19.24.28315.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.27
+<<<<<<< HEAD
 LogInit: Command Line: 
 LogInit: Base Directory: E:/UE_4.27/Engine/Binaries/Win64/
+=======
+LogInit: Command Line:  /Game/Levels/MainLevel -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/PIEGameUserSettings0.ini -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -WinX=640 -WinY=184 SAVEWINPOS=1 -ResX=1280 -ResY=720
+LogInit: Base Directory: D:/UE_4.27/Engine/Binaries/Win64/
+>>>>>>> main
 LogInit: Allocator: TBB
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 29
@@ -210,7 +313,11 @@ LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
 LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
 LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
 LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+<<<<<<< HEAD
 LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Z - Unreal/HideAndSeek/Saved/Config/Windows/Engine.ini]
+=======
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Engine.ini]
+>>>>>>> main
 LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
 LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
 LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
@@ -228,6 +335,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 [2023.04.05-18.40.15:592][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2023.04.05-18.40.15:592][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2023.04.05-18.40.15:592][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Z - Unreal/HideAndSeek/Saved/Config/Windows/Engine.ini]
@@ -1474,3 +1582,570 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.05-18.44.31:798][446]LogD3D11RHI: CleanupD3DDevice
 [2023.04.05-18.44.31:905][446]LogExit: Exiting.
 [2023.04.05-18.44.32:067][446]Log file closed, 04/05/23 20:44:32
+=======
+[2023.04.03-13.24.05:602][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2023.04.03-13.24.05:602][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.04.03-13.24.05:602][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Engine.ini]
+[2023.04.03-13.24.05:602][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.04.03-13.24.05:602][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Engine.ini]
+[2023.04.03-13.24.05:602][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Engine.ini]
+[2023.04.03-13.24.05:602][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.04.03-13.24.05:602][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.04.03-13.24.05:602][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.04.03-13.24.05:602][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.04.03-13.24.05:602][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.04.03-13.24.05:602][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.04.03-13.24.05:602][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.04.03-13.24.05:602][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.04.03-13.24.05:602][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.04.03-13.24.05:602][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.04.03-13.24.05:602][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.04.03-13.24.05:602][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.04.03-13.24.05:603][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.04.03-13.24.05:603][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.04.03-13.24.05:603][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Engine.ini]
+[2023.04.03-13.24.05:603][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.04.03-13.24.05:603][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.04.03-13.24.05:603][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.04.03-13.24.05:603][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.04.03-13.24.05:603][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.04.03-13.24.05:603][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.04.03-13.24.05:603][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.04.03-13.24.05:603][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.04.03-13.24.05:603][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.04.03-13.24.05:603][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.04.03-13.24.05:603][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.04.03-13.24.05:603][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.04.03-13.24.05:603][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.04.03-13.24.05:603][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.04.03-13.24.05:603][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Engine.ini]
+[2023.04.03-13.24.05:603][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Engine.ini]
+[2023.04.03-13.24.05:610][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.03-13.24.05:611][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.04.03-13.24.05:612][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.03-13.24.05:612][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.04.03-13.24.05:612][  0]LogHAL: Display: Platform has ~ 16 GB [16943194112 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.04.03-13.24.05:612][  0]LogInit: Going up to parent DeviceProfile []
+[2023.04.03-13.24.05:612][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.03-13.24.05:612][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.03-13.24.05:613][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.04.03-13.24.05:613][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.03-13.24.05:613][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.04.03-13.24.05:613][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.03-13.24.05:613][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.03-13.24.05:613][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.03-13.24.05:613][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.04.03-13.24.05:613][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-13.24.05:613][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.03-13.24.05:613][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.03-13.24.05:613][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Scalability.ini]
+[2023.04.03-13.24.05:613][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.04.03-13.24.05:613][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.04.03-13.24.05:613][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.04.03-13.24.05:613][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.04.03-13.24.05:613][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.04.03-13.24.05:613][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.04.03-13.24.05:613][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.04.03-13.24.05:613][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Engine.ini]
+[2023.04.03-13.24.05:613][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Nathan/Unreal/HideSeek/Saved/Config/Windows/Editor.ini]
+[2023.04.03-13.24.05:613][  0]LogInit: Computer: RNSS21223
+[2023.04.03-13.24.05:613][  0]LogInit: User: pleroy
+[2023.04.03-13.24.05:613][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.04.03-13.24.05:613][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.04.03-13.24.05:613][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2023.04.03-13.24.05:613][  0]LogMemory: Platform Memory Stats for Windows
+[2023.04.03-13.24.05:613][  0]LogMemory: Process Physical Memory: 147.21 MB used, 147.21 MB peak
+[2023.04.03-13.24.05:613][  0]LogMemory: Process Virtual Memory: 132.80 MB used, 132.80 MB peak
+[2023.04.03-13.24.05:613][  0]LogMemory: Physical Memory: 7915.64 MB used,  8242.65 MB free, 16158.29 MB total
+[2023.04.03-13.24.05:613][  0]LogMemory: Virtual Memory: 134211680.00 MB used,  6043.88 MB free, 134217728.00 MB total
+[2023.04.03-13.24.05:617][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.04.03-13.24.05:633][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.04.03-13.24.05:633][  0]LogInit: Using OS detected language (fr-FR).
+[2023.04.03-13.24.05:633][  0]LogInit: Using OS detected locale (fr-FR).
+[2023.04.03-13.24.05:635][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2023.04.03-13.24.05:637][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2023.04.03-13.24.05:637][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2023.04.03-13.24.05:637][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2023.04.03-13.24.05:637][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2023.04.03-13.24.05:637][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2023.04.03-13.24.05:637][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2023.04.03-13.24.05:637][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2023.04.03-13.24.05:644][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.03-13.24.05:666][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.04.03-13.24.05:666][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.04.03-13.24.05:679][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.04.03-13.24.05:682][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.04.03-13.24.05:682][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.04.03-13.24.05:682][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.04.03-13.24.05:682][  0]LogD3D11RHI: D3D11 adapters:
+[2023.04.03-13.24.05:785][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2023.04.03-13.24.05:785][  0]LogD3D11RHI:       5980/0/8079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.04.03-13.24.05:803][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2023.04.03-13.24.05:803][  0]LogD3D11RHI:       128/0/8079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.04.03-13.24.05:805][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.04.03-13.24.05:805][  0]LogD3D11RHI:       0/0/8079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.04.03-13.24.05:805][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.04.03-13.24.05:805][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2023.04.03-13.24.05:805][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.04.03-13.24.05:805][  0]LogD3D11RHI:     DeviceId    : 1f08
+[2023.04.03-13.24.05:805][  0]LogD3D11RHI:     SubSysId    : 6903103c
+[2023.04.03-13.24.05:805][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.04.03-13.24.05:805][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2023.04.03-13.24.05:805][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.04.03-13.24.05:805][  0]LogD3D11RHI:     SharedSystemMemory : 8471597056 bytes
+[2023.04.03-13.24.05:805][  0]LogD3D11RHI:     AdapterLuid : 0 58917
+[2023.04.03-13.24.05:810][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.04.03-13.24.05:810][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2023.04.03-13.24.05:810][  0]LogWindows: EnumDisplayDevices:
+[2023.04.03-13.24.05:810][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2023.04.03-13.24.05:810][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2023.04.03-13.24.05:811][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2023.04.03-13.24.05:811][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2023.04.03-13.24.05:811][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2023.04.03-13.24.05:811][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2023.04.03-13.24.05:811][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2023.04.03-13.24.05:811][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.04.03-13.24.05:811][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2023.04.03-13.24.05:811][  0]LogD3D11RHI:   Driver Version: 472.91 (internal:30.0.14.7291, unified:472.91)
+[2023.04.03-13.24.05:811][  0]LogD3D11RHI:      Driver Date: 12-13-2021
+[2023.04.03-13.24.05:811][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2023.04.03-13.24.05:811][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.04.03-13.24.05:811][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2023.04.03-13.24.05:811][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.04.03-13.24.05:812][  0]LogD3D11RHI:     DeviceId    : 1f08
+[2023.04.03-13.24.05:812][  0]LogD3D11RHI:     SubSysId    : 6903103c
+[2023.04.03-13.24.05:812][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.04.03-13.24.05:812][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2023.04.03-13.24.05:812][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.04.03-13.24.05:812][  0]LogD3D11RHI:     SharedSystemMemory : 8471597056 bytes
+[2023.04.03-13.24.05:812][  0]LogD3D11RHI:     AdapterLuid : 0 58917
+[2023.04.03-13.24.05:890][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.04.03-13.24.05:890][  0]LogD3D11RHI: Async texture creation enabled
+[2023.04.03-13.24.05:890][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.04.03-13.24.05:891][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061082).
+[2023.04.03-13.24.05:904][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.04.03-13.24.05:935][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.04.03-13.24.06:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.04.03-13.24.06:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.04.03-13.24.06:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.04.03-13.24.06:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.04.03-13.24.06:195][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.04.03-13.24.06:201][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.04.03-13.24.06:224][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.04.03-13.24.06:248][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.04.03-13.24.06:248][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (../../../../Nathan/Unreal/HideSeek/Intermediate/Shaders/WorkingDirectory/19288/).
+[2023.04.03-13.24.06:248][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/p.leroy/AppData/Local/Temp/UnrealShaderWorkingDir/470A42794F29DBA0BB7A82BB9E41F4A2/'.
+[2023.04.03-13.24.06:248][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.04.03-13.24.06:248][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.04.03-13.24.06:248][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.04.03-13.24.06:938][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.04.03-13.24.07:004][  0]LogDerivedDataCache: Loaded boot cache 0.07s 94MB C:/Users/p.leroy/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.04.03-13.24.07:004][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/p.leroy/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.04.03-13.24.07:004][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Nathan/Unreal/HideSeek/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.04.03-13.24.07:004][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.04.03-13.24.07:004][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Nathan/Unreal/HideSeek/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.03-13.24.07:004][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.04.03-13.24.07:023][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.04.03-13.24.07:023][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.03-13.24.07:023][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.04.03-13.24.07:073][  0]LogDerivedDataCache: Speed tests for C:/Users/p.leroy/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2023.04.03-13.24.07:073][  0]LogDerivedDataCache: Display: Performance to C:/Users/p.leroy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=1079.78MBs, RandomWriteSpeed=19.04MBs. Assigned SpeedClass 'Local'
+[2023.04.03-13.24.07:073][  0]LogDerivedDataCache: Using Local data cache path C:/Users/p.leroy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.04.03-13.24.07:074][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.04.03-13.24.07:074][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.04.03-13.24.07:110][  0]LogSlate: Using FreeType 2.10.0
+[2023.04.03-13.24.07:110][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.04.03-13.24.07:184][  0]LogInit: Using OS detected language (fr-FR).
+[2023.04.03-13.24.07:184][  0]LogInit: Using OS detected locale (fr-FR).
+[2023.04.03-13.24.07:184][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2023.04.03-13.24.07:184][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the locale.
+[2023.04.03-13.24.07:184][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2023.04.03-13.24.07:184][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2023.04.03-13.24.07:187][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2023.04.03-13.24.07:368][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2023.04.03-13.24.07:368][  0]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.001229 seconds
+[2023.04.03-13.24.07:431][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.03-13.24.07:431][  0]LogInit: Active device profile: [00000152A6C63900][00000152A142D6C0 49] Windows
+[2023.04.03-13.24.07:431][  0]LogInit: Profiles: [00000152A6C63900][00000152A142D6C0 49] Windows, [00000152A6C14800][00000152A1435840 49] WindowsNoEditor, [00000152A6C60800][00000152A14399C0 49] WindowsServer, [00000152A6C17200][00000152A143DB40 49] WindowsClient, [00000152A6C63100][00000152A1440140 49] IOS, [00000152A6C15100][00000152A14442C0 49] iPadAir, [00000152A6C61000][00000152A1448440 49] iPadAir2, [00000152A6BC8300][00000152A1692700 49] IPadPro, [00000152A6BC8400][00000152A168E740 49] iPadAir3, [00000152A6C62C00][00000152A16968C0 49] iPadAir4, [00000152A6BCB400][00000152A169AA40 49] iPadMini2, [00000152A6C61400][00000152A169EBC0 49] iPadMini3, [00000152A6BC9600][00000152A16A2D40 49] iPadMini4, [00000152A6C62500][00000152A16A6EC0 49] iPadMini5, [00000152A6BC3B00][00000152A16AF180 49] iPhone6, [00000152A6BC3C00][00000152A16AB1C0 49] iPodTouch6, [00000152A6BCB000][00000152A16B7480 49] iPhone7, [00000152A6BCAC00][00000152A16B34C0 49] iPodTouch7, [00000152A6BC0D00][00000152A1431600 49] iPhone5S, [00000152A6BC8F00][00000152A16BB740 49] iPhone6Plus, [00000152A6BC2D00][00000152A16BF880 49] iPhone6S, [00000152A6BCB800][00000152A3C49A00 49] iPhone6SPlus, [00000152A6BC1400][00000152A3C4DB80 49] iPhone7Plus, [00000152A6BC9400][00000152A3C50180 49] iPhoneSE, [00000152A6BC2600][00000152A3C54300 49] iPhone8, [00000152A6BCA100][00000152A3C58480 49] iPhone8Plus, [00000152A6BC1B00][00000152A3C5C600 49] iPhoneX, [00000152A6BC9F00][00000152A3C60780 49] iPhoneXS, [00000152A6BC0900][00000152A3C64900 49] iPhoneXSMax, [00000152A6BC9B00][00000152A3C68A80 49] iPhoneXR, [00000152A6BC0600][00000152A3C6CC00 49] iPhone11, [00000152A6BCB700][00000152A3C70D80 49] iPhone11Pro, [00000152A6BC2900][00000152A3C74F00 49] iPhone11ProMax, [00000152A6BC9100][00000152A3C79080 49] iPhoneSE2, [00000152A6BC2300][00000152A3C7D200 49] iPhone12Mini, [00000152A6BCBA00][00000152A3C81380 49] iPhone12, [00000152A6BC1D00][00000152A3C85500 49] iPhone12Pro, [00000152A6BCAE00][00000152A3C89680 49] iPhone12ProMax, [00000152A6BC1700][00000152A16C37C0 49] iPadPro105, [00000152A6BC9200][00000152A3C8D900 49] iPadPro129, [00000152A6BC3E00][00000152A3C91A40 49] iPadPro97, [00000152A6BCBC00][00000152A3C99BC0 49] iPadPro2_129, [00000152A6BC2500][00000152A3C9C1C0 49] iPad5, [00000152A6BCA000][00000152A3CA0340 49] iPad6, [00000152A6BC2F00][00000152A3CA44C0 49] iPad7, [00000152A6BCBE00][00000152A3CA8640 49] iPad8, [00000152A6BC2A00][00000152A3CAC7C0 49] iPadPro11, [00000152A6BC9800][00000152A3CB0940 49] iPadPro2_11, [00000152A6BC3300][00000152A3CB4AC0 49] iPadPro3_129, [00000152A6BC9C00][00000152A3CB8C40 49] iPadPro4_129, [00000152A6BC0700][00000152A3CBCDC0 49] AppleTV, [00000152A6BC8900][00000152A3CC0F40 49] AppleTV4K, [00000152A6BC0500][00000152A3CC50C0 49] TVOS, [00000152A6BC9D00][00000152A3CC9240 49] Mac, [00000152A6BC1000][00000152A3CCD3C0 49] MacClient, [00000152A6BCA200][00000152A3CD1540 49] MacNoEditor, [00000152A6BC3400][00000152A3CD56C0 49] MacServer, [00000152A6BCB500][00000152A3CD9840 49] Linux, [00000152A6BC3800][00000152A3C95980 49] LinuxAArch64, [00000152A6BC9500][00000152A3CDDAC0 49] LinuxNoEditor, [00000152A6BC3700][00000152A3CE1C00 49] LinuxAArch64NoEditor, [00000152A6BC8E00][00000152A3CE41C0 49] LinuxClient, [00000152A6BC2800][00000152A3CEC340 49] LinuxAArch64Client, [00000152A6BCAF00][00000152A3CF04C0 49] LinuxServer, [00000152A6BC2E00][00000152A3CF4640 49] LinuxAArch64Server, [00000152A6BC8C00][00000152A3CF87C0 49] Android, [00000152A6C16200][00000152A3CFC940 49] Android_Low, [00000152A6CA0800][00000152A3D00AC0 49] Android_Mid, [00000152A6C16D00][00000152A3D04C40 49] Android_High, [00000152A6CA2100][00000152A3D08DC0 49] Android_Default, [00000152A6C17900][00000152A3D0CF40 49] Android_Adreno4xx, [00000152A6CA0300][00000152A3D110C0 49] Android_Adreno5xx_Low, [00000152A6C16000][00000152A3D15240 49] Android_Adreno5xx, [00000152A6CA1800][00000152A3D193C0 49] Android_Adreno6xx, [00000152A6C14900][00000152A3D1D540 49] Android_Adreno6xx_Vulkan, [00000152A6CA1F00][00000152A3D216C0 49] Android_Mali_T6xx, [00000152A6C15200][00000152A3D25840 49] Android_Mali_T7xx, [00000152A6CA0D00][00000152A3D299C0 49] Android_Mali_T8xx, [00000152A6C16F00][00000152A3CE9B00 49] Android_Mali_G71, [00000152A6CA0F00][00000152A3D2C0C0 49] Android_Mali_G72, [00000152A6C15A00][00000152A3D30200 49] Android_Mali_G72_Vulkan, [00000152A6CA2400][00000152A3D34340 49] Android_Mali_G76, [00000152A6C15E00][00000152A3D3C4C0 49] Android_Mali_G76_Vulkan, [00000152A6CA1900][00000152A3D40640 49] Android_Mali_G77, [00000152A6C14C00][00000152A3D447C0 49] Android_Mali_G77_Vulkan, [00000152A6CA1B00][00000152A3D48940 49] Android_Mali_G78, [00000152A6C15300][00000152A3D4CAC0 49] Android_Mali_G78_Vulkan, [00000152A6CA0A00][00000152A3D50C40 49] Android_Mali_G710, [00000152A6C17400][00000152A3D54DC0 49] Android_Mali_G710_Vulkan, [00000152A6CA2200][00000152A3D58F40 49] Android_Vulkan_SM5, [00000152A6BCA600][00000152A3D5D0C0 49] Android_PowerVR_G6xxx, [00000152A6BC2100][00000152A3D61240 49] Android_PowerVR_GT7xxx, [00000152A6BC8A00][00000152A3D653C0 49] Android_PowerVR_GE8xxx, [00000152A6BC1600][00000152A3D69540 49] Android_PowerVR_GM9xxx, [00000152A6BC8D00][00000152A3D6D6C0 49] Android_PowerVR_GM9xxx_Vulkan, [00000152A6CA1200][00000152A3D71840 49] Android_TegraK1, [00000152A6BCB600][00000152A3D759C0 49] Android_Unknown_Vulkan, [00000152A6CA0900][00000152A3D79B40 49] Lumin, [00000152A6BCBD00][00000152A3D7C140 49] Lumin_Desktop, [00000152A6CA1700][00000152A3D38280 49] HoloLens, 
+[2023.04.03-13.24.07:465][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.04.03-13.24.07:465][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.04.03-13.24.07:465][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.04.03-13.24.07:465][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.04.03-13.24.07:465][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.04.03-13.24.07:571][  0]LogNetVersion: HideAndSeek 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2589003011)
+[2023.04.03-13.24.07:781][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.04.03-13.24.07:837][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.04.03-13.24.07:923][  0]LogMoviePlayer: Initializing movie player
+[2023.04.03-13.24.08:023][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 075FA8984E3EEAEC0DFE94840B5F1537 | Instance: F4C51CFC4D6078B7C594ED889774EFD8 (RNSS21223-19288).
+[2023.04.03-13.24.08:041][  0]LogCollectionManager: Loaded 0 collections in 0.000782 seconds
+[2023.04.03-13.24.08:043][  0]LogFileCache: Scanning file cache for directory 'D:/Nathan/Unreal/HideSeek/Saved/Collections/' took 0.00s
+[2023.04.03-13.24.08:043][  0]LogFileCache: Scanning file cache for directory 'D:/Nathan/Unreal/HideSeek/Content/Developers/pleroy/Collections/' took 0.00s
+[2023.04.03-13.24.08:043][  0]LogFileCache: Scanning file cache for directory 'D:/Nathan/Unreal/HideSeek/Content/Collections/' took 0.00s
+[2023.04.03-13.24.08:043][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.04.03-13.24.08:059][  0]LogPython: Using Python 3.7.7
+[2023.04.03-13.24.08:559][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.04.03-13.24.08:564][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.04.03-13.24.08:638][  0]SourceControl: Source control is disabled
+[2023.04.03-13.24.08:638][  0]SourceControl: Source control is disabled
+[2023.04.03-13.24.08:640][  0]SourceControl: Source control is disabled
+[2023.04.03-13.24.08:645][  0]LogUProjectInfo: Found projects:
+[2023.04.03-13.24.08:717][  0]LogOpenImageDenoise: OIDN starting up
+[2023.04.03-13.24.08:734][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.04.03-13.24.08:752][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.03-13.24.08:752][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.03-13.24.08:827][  0]LogOcInput: OculusInput pre-init called
+[2023.04.03-13.24.08:836][  0]LogUObjectArray: 22121 objects as part of root set at end of initial load.
+[2023.04.03-13.24.08:836][  0]LogUObjectAllocator: 5975632 out of 0 bytes used by permanent object pool.
+[2023.04.03-13.24.08:836][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.04.03-13.24.08:882][  0]LogEngine: Initializing Engine...
+[2023.04.03-13.24.08:884][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.04.03-13.24.08:884][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.04.03-13.24.08:884][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.04.03-13.24.08:885][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.04.03-13.24.08:987][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.04.03-13.24.08:987][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.04.03-13.24.08:991][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.04.03-13.24.08:992][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.04.03-13.24.08:992][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.04.03-13.24.08:992][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.04.03-13.24.08:993][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.03-13.24.08:993][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.03-13.24.08:993][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.03-13.24.08:993][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.03-13.24.08:993][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.03-13.24.08:993][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.03-13.24.08:993][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.03-13.24.08:993][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.03-13.24.08:993][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.03-13.24.08:993][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.03-13.24.08:993][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.03-13.24.08:993][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.03-13.24.09:008][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.03-13.24.09:008][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.04.03-13.24.09:022][  0]LogAudioMixer: Display: Using Audio Device LG HDR WFHD (NVIDIA High Definition Audio)
+[2023.04.03-13.24.09:028][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.03-13.24.09:030][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.03-13.24.09:030][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.03-13.24.09:031][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.03-13.24.09:031][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.03-13.24.09:031][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.03-13.24.09:032][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.03-13.24.09:032][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.03-13.24.09:032][  0]LogInit: FAudioDevice initialized.
+[2023.04.03-13.24.09:033][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.04.03-13.24.09:037][  0]LogInit: Texture streaming: Enabled
+[2023.04.03-13.24.09:102][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.04.03-13.24.09:102][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-13.24.09:102][  0]LogInit: Display: Game Engine Initialized.
+[2023.04.03-13.24.09:102][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2023.04.03-13.24.09:212][  0]LogInit: Display: Starting Game.
+[2023.04.03-13.24.09:212][  0]LogNet: Browse: /Game/Levels/MainLevel?Name=Player
+[2023.04.03-13.24.09:212][  0]LogLoad: LoadMap: /Game/Levels/MainLevel?Name=Player
+[2023.04.03-13.24.09:212][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2023.04.03-13.24.09:214][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-13.24.09:214][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-13.24.09:219][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.03-13.24.09:221][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.04.03-13.24.09:486][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel'.
+[2023.04.03-13.24.09:492][  0]LogAIModule: Creating AISystem for world MainLevel
+[2023.04.03-13.24.09:492][  0]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.04.03-13.24.09:495][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera2.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:495][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera2.cone' 
+[2023.04.03-13.24.09:495][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera3.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:495][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera3.cone' 
+[2023.04.03-13.24.09:495][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera4.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:495][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera4.cone' 
+[2023.04.03-13.24.09:495][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera5.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:495][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera5.cone' 
+[2023.04.03-13.24.09:495][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera6.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:495][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera6.cone' 
+[2023.04.03-13.24.09:495][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera7.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:495][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera7.cone' 
+[2023.04.03-13.24.09:495][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera8.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:495][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera8.cone' 
+[2023.04.03-13.24.09:495][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera9.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:496][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera9.cone' 
+[2023.04.03-13.24.09:496][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera10.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:496][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera10.cone' 
+[2023.04.03-13.24.09:496][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera11.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:496][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera11.cone' 
+[2023.04.03-13.24.09:507][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera2.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:507][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera2.cone' 
+[2023.04.03-13.24.09:508][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera2.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:508][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera2.cone' 
+[2023.04.03-13.24.09:508][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera3.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:508][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera3.cone' 
+[2023.04.03-13.24.09:508][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera3.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:508][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera3.cone' 
+[2023.04.03-13.24.09:508][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera_2.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:508][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera_2.cone' 
+[2023.04.03-13.24.09:509][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera4.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:509][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera4.cone' 
+[2023.04.03-13.24.09:509][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera4.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:509][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera4.cone' 
+[2023.04.03-13.24.09:509][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera5.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:509][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera5.cone' 
+[2023.04.03-13.24.09:509][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera5.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:509][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera5.cone' 
+[2023.04.03-13.24.09:510][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera6.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:510][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera6.cone' 
+[2023.04.03-13.24.09:510][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera6.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:510][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera6.cone' 
+[2023.04.03-13.24.09:510][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera7.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:510][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera7.cone' 
+[2023.04.03-13.24.09:510][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera7.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:510][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera7.cone' 
+[2023.04.03-13.24.09:511][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera8.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:511][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera8.cone' 
+[2023.04.03-13.24.09:511][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera8.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:511][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera8.cone' 
+[2023.04.03-13.24.09:511][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera9.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:511][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera9.cone' 
+[2023.04.03-13.24.09:511][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera9.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:511][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera9.cone' 
+[2023.04.03-13.24.09:511][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera10.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:511][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera10.cone' 
+[2023.04.03-13.24.09:512][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera10.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:512][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera10.cone' 
+[2023.04.03-13.24.09:512][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera11.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:512][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera11.cone' 
+[2023.04.03-13.24.09:512][  0]LogPhysics: Warning: Scale for /Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera11.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:512][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/MainLevel.MainLevel:PersistentLevel.BP_Camera11.cone' 
+[2023.04.03-13.24.09:512][  0]LogWorld: Bringing World /Game/Levels/MainLevel.MainLevel up for play (max tick rate 0) at 2023.04.03-15.24.09
+[2023.04.03-13.24.09:513][  0]LogWorld: Bringing up level for play took: 0.020922
+[2023.04.03-13.24.09:517][  0]LogLoad: Took 0.305099 seconds to LoadMap(/Game/Levels/MainLevel)
+[2023.04.03-13.24.09:556][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.03-13.24.09:582][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2023.04.03-13.24.09:582][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.04.03-13.24.09:582][  0]LogLoad: (Engine Initialization) Total time: 4.85 seconds
+[2023.04.03-13.24.09:582][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.04.03-13.24.09:598][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.04.03-13.24.09:600][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-13.24.09:618][  0]LogRenderer: Reallocating scene render targets to support 128x128 Format 10 NumSamples 1 (Frame:1).
+[2023.04.03-13.24.09:638][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:2).
+[2023.04.03-13.24.09:670][  1]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.03-13.24.09:834][ 14]LogPhysics: Warning: Scale for /Game/Levels/LevelJulien.LevelJulien:PersistentLevel.BP_Camera12.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:834][ 14]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/LevelJulien.LevelJulien:PersistentLevel.BP_Camera12.cone' 
+[2023.04.03-13.24.09:889][ 15]LogPhysics: Warning: Scale for /Game/Levels/LevelJulien.LevelJulien:PersistentLevel.BP_Camera12.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:889][ 15]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/LevelJulien.LevelJulien:PersistentLevel.BP_Camera12.cone' 
+[2023.04.03-13.24.09:889][ 15]LogPhysics: Warning: Scale for /Game/Levels/LevelJulien.LevelJulien:PersistentLevel.BP_Camera12.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:889][ 15]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/LevelJulien.LevelJulien:PersistentLevel.BP_Camera12.cone' 
+[2023.04.03-13.24.09:889][ 15]LogPhysics: Warning: Scale for /Game/Levels/LevelJulien.LevelJulien:PersistentLevel.BP_Camera12.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:889][ 15]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/LevelJulien.LevelJulien:PersistentLevel.BP_Camera12.cone' 
+[2023.04.03-13.24.09:975][ 17]LogPhysics: Warning: Scale for /Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat_2.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:975][ 17]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat_2.cone' 
+[2023.04.03-13.24.09:975][ 17]LogPhysics: Warning: Scale for /Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat3.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:975][ 17]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat3.cone' 
+[2023.04.03-13.24.09:975][ 17]LogPhysics: Warning: Scale for /Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat4.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:975][ 17]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat4.cone' 
+[2023.04.03-13.24.09:975][ 17]LogPhysics: Warning: Scale for /Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat2_1.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:975][ 17]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat2_1.cone' 
+[2023.04.03-13.24.09:984][ 17]LogPhysics: Warning: Scale for /Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat_2.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:984][ 17]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat_2.cone' 
+[2023.04.03-13.24.09:984][ 17]LogPhysics: Warning: Scale for /Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat_2.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:984][ 17]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat_2.cone' 
+[2023.04.03-13.24.09:984][ 17]LogPhysics: Warning: Scale for /Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat_2.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:984][ 17]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat_2.cone' 
+[2023.04.03-13.24.09:984][ 17]LogPhysics: Warning: Scale for /Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat3.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:984][ 17]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat3.cone' 
+[2023.04.03-13.24.09:985][ 17]LogPhysics: Warning: Scale for /Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat3.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:985][ 17]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat3.cone' 
+[2023.04.03-13.24.09:985][ 17]LogPhysics: Warning: Scale for /Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat3.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:985][ 17]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat3.cone' 
+[2023.04.03-13.24.09:985][ 17]LogPhysics: Warning: Scale for /Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat4.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:985][ 17]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat4.cone' 
+[2023.04.03-13.24.09:985][ 17]LogPhysics: Warning: Scale for /Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat4.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:985][ 17]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat4.cone' 
+[2023.04.03-13.24.09:985][ 17]LogPhysics: Warning: Scale for /Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat4.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:985][ 17]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat4.cone' 
+[2023.04.03-13.24.09:986][ 17]LogPhysics: Warning: Scale for /Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat2_1.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:986][ 17]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat2_1.cone' 
+[2023.04.03-13.24.09:986][ 17]LogPhysics: Warning: Scale for /Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat2_1.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:986][ 17]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat2_1.cone' 
+[2023.04.03-13.24.09:986][ 17]LogPhysics: Warning: Scale for /Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat2_1.cone has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.04.03-13.24.09:986][ 17]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/LevelJolan.LevelJolan:PersistentLevel.BP_CameRat2_1.cone' 
+>>>>>>> main
